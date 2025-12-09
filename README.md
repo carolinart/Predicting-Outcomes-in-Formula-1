@@ -85,7 +85,11 @@ Of course… thank you to F1 for giving us the most beautiful data-generating pr
 ⸻
 ## 👥 Contributors
 **Carolina Rios** — EDA, modeling, what-if simulations, predictions, and co-author of the Medium article
+
 **Emma Trunnell** — Feature extraction, data consolidation, final data analysis, and co-author of the Medium article
+
 **Maria-Laura Peña** — Limitations & future work
+
 **Abhi Pandya** — Abstract & introduction
+
 **Prem Badri** — Feature extraction
